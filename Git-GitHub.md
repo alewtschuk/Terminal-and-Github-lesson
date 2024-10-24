@@ -1,5 +1,22 @@
 # Git and GitHub
 
+## Table of Contents
+1. [Intro](#intro)
+2. [What is Git](#what-is-git)
+3. [Key Concepts and Terms](#key-concepts-and-terms)
+4. [What is GitHub](#what-is-github)
+5. [Key Features](#key-features)
+6. [Git Commands (Its Terminal Time 🎉)](#git-commands-its-terminal-time)
+   - [Installing Git and Setting up GitHub](#installing-git-and-setting-up-github)
+   - [Basic Git Commands](#basic-git-commands)
+   - [Branching](#branching)
+7. [Using GitHub](#using-github)
+   - [Creating a Repository](#creating-a-repository)
+   - [Creating and Using Pull Requests (PRs)](#creating-and-using-pull-requests-prs)
+      - [Creating a Pull Request](#creating-a-pull-request)
+      - [Reviewing Pull Requests](#reviewing-pull-requests)
+8. [Resources and Docs](#resources-and-docs)
+
 ### Intro
 - **How do software development teams work together to build projects in a distributed and async manner?** 
 - **Teams need to keep track of project versions both for further development and for potential rollbacks and recovery.** 
