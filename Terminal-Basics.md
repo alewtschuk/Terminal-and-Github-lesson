@@ -4,28 +4,28 @@ Welcome to this introductory lesson on using the terminal! By the end of this le
 
 ## Table of Contents
 
-    1. What is the Terminal?
-    2. Opening the Terminal
-        - For Windows Users (Using WSL)
-        - For macOS Users
-    3. Understanding the Command Prompt
-    4. Basic Commands
-        1. pwd - Print Working Directory
-        2. ls - List Directory Contents
-        3. cd - Change Directory
-        4. mkdir - Make Directory
-        5. touch - Create a New File
-        6. cp - Copy Files and Directories
-        7. mv - Move or Rename Files and Directories
-        8. rm - Remove Files and Directories
-        9. cat - Concatenate and Display Files
-        10. echo - Display a Line of Text
-    5. Understanding File Paths
-    6. Redirection and Pipes
-    7. Getting Help
-    8. Practice Exercises
-    9. Conclusion
-    10. Additional Resources
+1. [What is the Terminal?](#what-is-the-terminal)
+2. [Opening the Terminal](#opening-the-terminal)
+   - [For Windows Users (Using WSL)](#for-windows-users-using-wsl)
+   - [For macOS Users](#for-macos-users)
+3. [Understanding the Command Prompt](#understanding-the-command-prompt)
+4. [Basic Commands](#basic-commands)
+   1. [pwd - Print Working Directory](#1-pwd---print-working-directory)
+   2. [ls - List Directory Contents](#2-ls---list-directory-contents)
+   3. [cd - Change Directory](#3-cd---change-directory)
+   4. [mkdir - Make Directory](#4-mkdir---make-directory)
+   5. [touch - Create a New File](#5-touch---create-a-new-file)
+   6. [cp - Copy Files and Directories](#6-cp---copy-files-and-directories)
+   7. [mv - Move or Rename Files and Directories](#7-mv---move-or-rename-files-and-directories)
+   8. [rm - Remove Files and Directories](#8-rm---remove-files-and-directories)
+   9. [cat - Concatenate and Display Files](#9-cat---concatenate-and-display-files)
+   10. [echo - Display a Line of Text](#10-echo---display-a-line-of-text)
+5. [Understanding File Paths](#understanding-file-paths)
+6. [Redirection and Pipes](#redirection-and-pipes)
+7. [Getting Help](#getting-help)
+8. [Practice Exercises](#practice-exercises)
+9. [Conclusion](#conclusion)
+10. [Additional Resources](#additional-resources)
 
 ## What is the Terminal?
 
